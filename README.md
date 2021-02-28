@@ -1,8 +1,8 @@
 # Taskia landing page
 
-This is a Taskia landing page code  
-For the demo click here: [Demo](https://github.com/facebook/create-react-app)
+For the demo click here: [Demo](https://taskia-landing-page.web.app/)
 
+This is a Taskia landing page code  
 ## How to start
 
 Clone or download code like zip. And after that hit  
