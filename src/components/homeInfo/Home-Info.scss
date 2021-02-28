@@ -1,0 +1,47 @@
+.section {
+  margin-top: 2%;
+  margin-bottom: 15%;
+
+  .home-section-side {
+    width: 40%;
+
+    .home-info-text {
+
+      .home-info-title {
+        font-size: 70px;
+      }
+
+      .home-info-description {
+        font-size: 20px;
+        margin: 13% 0;
+        width: 80%;
+        color: #B1AAAA;
+        line-height: 32px;
+      }
+    }
+
+    .subscribe {
+      height: 77px;
+
+      .subscribe-input {
+        height: inherit;
+        width: 400px;
+        border-radius: 100px;
+        margin: 0 3% 0 0;
+        font-size: 23px;
+        border-color: #EBEBEB;
+        border-style: solid;
+        text-indent: 20px;
+        outline: none;
+      }
+
+      .subscribe-input:focus {
+        border-color: #000000;
+      }
+
+      .subscribe-input::placeholder {
+        color: #EBEBEB;
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.single-service-section {
+  height: 477px;
+  width: 364px;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 13px;
+  flex-direction: column;
+
+  .details {
+    width: 80%;
+    text-align: center;
+    line-height: 2;
+    color: #FFFFFF;
+
+    h2 {
+      width: 50%;
+      margin: 15px auto;
+      line-height: 1.3;
+    }
+  }
+}

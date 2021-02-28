@@ -1,0 +1,45 @@
+@media screen and (max-width: 1650px) {
+  .reach-us-section {
+    flex-direction: column;
+
+    .reach-us-subsection-text {
+      width: 100%;
+      text-align: center;
+      margin: 0 !important;
+
+      .reach-us-text {
+        margin: 0 3% !important;
+
+        .reach-us-title {
+          width: inherit;
+          font-size: 40px !important;
+          margin-left: 0 !important;
+        }
+
+        .reach-us-info-description {
+          width: 100%;
+          margin-left: 0 !important;
+        }
+      }
+
+      .download-buttons {
+        padding: 0;
+        justify-content: center;
+
+        img {
+          margin: 5% 6%;
+        }
+      }
+    }
+
+    .reach-us-subsection-image {
+      width: 100%;
+      margin-left: 0;
+
+      img {
+        width: inherit;
+        height: auto;
+      }
+    }
+  }
+}

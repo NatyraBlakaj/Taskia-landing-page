@@ -1,0 +1,49 @@
+.footer {
+  border-top: 1px solid #EBEBEB;
+  width: 100%;
+  margin-top: -80px;
+  padding-top: 158px;
+  text-align: center;
+  flex-direction: column;
+  margin-bottom: 15%;
+
+  h2 {
+    font-size: 50px;
+    color: #1E1C24;
+  }
+
+  h4 {
+    font-size: 24px;
+    color: #1E1C24;
+    font-weight: 300;
+    width: 24%;
+    margin-top: 32px;
+  }
+
+
+  .footer-subscribe {
+    height: 77px;
+    margin-top: 90px;
+    width: 100%;
+
+    .subscribe-input {
+      height: inherit;
+      width: 400px;
+      border-radius: 100px;
+      margin: 0 3% 0 0;
+      font-size: 23px;
+      border-color: #EBEBEB;
+      border-style: solid;
+      text-indent: 20px;
+      outline: none;
+    }
+
+    .subscribe-input:focus {
+      border-color: #000000;
+    }
+
+    .subscribe-input::placeholder {
+      color: #EBEBEB;
+    }
+  }
+}

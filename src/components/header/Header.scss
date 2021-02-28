@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  overflow: hidden !important;
+
+  .logo {
+    margin-top: 3%;
+    margin-left: 10%;
+  }
+
+  .try-free {
+    width: 147px;
+    height: 55px;
+    border-radius: 40px;
+    border: 2px solid #525FFB;
+    margin-top: 3%;
+    margin-right: 6%;
+
+    span {
+      font-weight: bold;
+      font-size: 21px;
+      vertical-align: middle;
+      color: #525FFB;
+    }
+  }
+}

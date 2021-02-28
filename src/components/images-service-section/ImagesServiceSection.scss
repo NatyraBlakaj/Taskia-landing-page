@@ -1,0 +1,30 @@
+.services-info-title {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: -20px;
+}
+
+.images-section {
+  width: 100%;
+  margin-bottom: 10%;
+  justify-content: space-around;
+
+  .images-sub-section {
+    height: 550px;
+    width: 25%;
+    position: relative;
+  }
+
+  .number-of-services {
+    flex-direction: column;
+    width: 40%;
+    text-align: center;
+
+    .services-number {
+      font-size: 150px;
+      color: #525FFB;
+      font-weight: bold;
+    }
+
+  }
+}

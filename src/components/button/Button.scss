@@ -1,0 +1,16 @@
+.button {
+  border-style: solid;
+  height: inherit;
+  width: 230px;
+  border-radius: 100px;
+  background: #525FFB;
+  color: #FFFFFF;
+  font-size: 23px;
+  border-color: #525FFB;
+  outline: 0;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #3e4dfd;;
+}

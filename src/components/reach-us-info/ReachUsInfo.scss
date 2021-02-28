@@ -1,0 +1,44 @@
+.reach-us-section {
+  margin-bottom: 10%;
+
+  .reach-us-subsection-text {
+    width: 40%;
+    flex-direction: column;
+
+    .reach-us-text {
+      margin: 4% 0 0 12%;
+
+      .reach-us-title {
+        font-size: 50px;
+        width: 75%;
+        margin-left: 17%;
+        margin-bottom: 20px;
+      }
+
+      .reach-us-info-description {
+        font-size: 18px;
+        width: 85%;
+        color: #B1AAAA;
+        margin-left: 17%;
+        line-height: 32px;
+      }
+    }
+
+    .download-buttons {
+      padding-left: 22%;
+
+      img {
+        margin: 10% 6%;
+      }
+    }
+  }
+
+  .reach-us-subsection-image {
+    width: 30%;
+    margin-left: 14%;
+
+    img {
+      float: right;
+    }
+  }
+}
