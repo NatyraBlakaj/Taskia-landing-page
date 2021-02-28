@@ -13,6 +13,7 @@ and then start the application with
 `npm start`
 
 ###Technologies Used
+
 The technologies used in this application were
 * React JS
 * Html
